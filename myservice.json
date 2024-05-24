@@ -1,0 +1,12 @@
+{
+  "Name": "MyService",
+  "DisplayName": "My Go Service",
+  "Description": "This service runs a batch script at a specified interval.",
+  "Dir": "C:\\programming\\Go\\installer",
+  "Exec": "C:\\programming\\Go\\installer\\script.bat",
+  "Args": [],
+  "Env": [],
+  "Stderr": "C:\\programming\\Go\\installer\\service_error.log",
+  "Stdout": "C:\\programming\\Go\\installer\\service_output.log",
+  "Interval": 1
+}
