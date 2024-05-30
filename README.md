@@ -13,7 +13,7 @@ This is a Go-based service that periodically executes a batch file at a specifie
 
 ## Configuration
 
-Create a JSON configuration file in the same directory as the service executable. The configuration file should have the same name as the executable but with a `.json` extension (e.g., `myservice.json`). Here is an example configuration:
+Create a JSON configuration file in the same directory as the service executable. Here is an example configuration:
 ```
 {
     "Name": "MyService",
